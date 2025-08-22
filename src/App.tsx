@@ -319,8 +319,8 @@ function App() {
                 <p className="text-base md:text-lg">
                   Someone said ki usko birthday nhi pasand, so i though why not make it special plus i can flaw 
                   my frontend skills (that's just an excuse👀) btw made this in under a day. Mereko pta ni tha
-                  ki ek baar sath baithne se itni achi dosti ho jati h 😂😂 btw jokes apart Enjoy your day. I hope you would love it and that it makes your day as special as you are, as 
-                  someone said efforts matter, i may be asking you out. Happy Birthday and  May your heart be light, your smile wide, and your dreams even brighter this year.
+                  ki ek baar sath baithne se itni achi dosti ho jati h 😂😂 btw jokes apart Enjoy your day. I hope you would love it and that it makes your day as special as you are,
+                  i mayyy be asking you out😂😂. Happy Birthday and  May your heart be light, your smile wide, and your dreams even brighter this year❤️❤️.
                   {/* Today marks another beautiful chapter in your journey. Your presence brings 
                   light to those around you, and your kindness creates ripples of joy that 
                   touch countless lives, as graceful as swans gliding across still waters. */}
@@ -330,7 +330,7 @@ function App() {
                   Like the elegant swan that moves with poise and beauty, may you continue to 
                   navigate life's waters with grace and confidence. Your dreams deserve to 
                   flourish, and your happiness deserves to shine as brilliantly as sunlight 
-                  on a peaceful lake.
+                  on a peaceful lake❤️❤️.
                 </p>
                 
                 <div className="bg-gradient-to-r from-pink-50 to-rose-50 rounded-xl md:rounded-2xl p-4 md:p-8 my-6 md:my-10">
@@ -362,7 +362,7 @@ function App() {
                 </div>
                 
                 <p className="text-lg md:text-xl font-light text-gray-800 pt-4 md:pt-6">
-                  Happy Birthday
+                  Happy Birthday❤️❤️
                 </p>
                 
                 <div className="flex justify-center mt-4">
